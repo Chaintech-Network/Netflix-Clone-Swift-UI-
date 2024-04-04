@@ -7,13 +7,17 @@ This project is a demonstration of a Netflix-inspired app built using SwiftUI, A
 - Finally, if you use v3 of TMDB API, add API KEY in a constant file so you can experience the demo smoothly
  
 ## Features
+
+![Home](https://github.com/ChainTechNetwork/Netflix-Clone-Swift-UI-/assets/143475887/d66ebd3f-def1-4c83-9ade-1ed0a7c11044) 
  
 **Home Screen:** The home screen presents a curated selection of trending, upcoming, popular, TV show recommended content across various categories. Explore a curated selection of 
-![Search](https://github.com/ChainTechNetwork/Netflix-Clone-Swift-UI-/assets/143475887/92c5a644-1aec-4b75-81d1-211b55b80ad9)
- 
+
+![Search](https://github.com/ChainTechNetwork/Netflix-Clone-Swift-UI-/assets/143475887/92c5a644-1aec-4b75-81d1-211b55b80ad9) 
+
 **Search:** Users can search for specific movies or TV shows using keywords or titles. Dive into specific genres such as Action, Comedy, Drama, Sci-Fi, and more, with content recommendations tailored to each category. With Amazing card Animation and Matched Geometry Effects.
- 
-![Untitled design](https://github.com/ChainTechNetwork/Netflix-Clone-Swift-UI-/assets/143475887/a8c6d03d-296b-459e-8ff3-83ba4ef05fd1)
+
+![Games](https://github.com/ChainTechNetwork/Netflix-Clone-Swift-UI-/assets/143475887/a8c6d03d-296b-459e-8ff3-83ba4ef05fd1)
+
  
 **Games Section:** Immerse yourself in a collection of casual games designed for entertainment between viewing sessions. Enjoy a variety of game genres such as puzzles, quizzes, trivia, and more, all seamlessly integrated within the app experience.
 - **Puzzles:** Challenge your mind with a selection of brain-teasing puzzles and mind-bending challenges.
